@@ -5,7 +5,8 @@ Pero si quieres ir directamente a lo jugoso te recomiendo clicar en el enlace de
 
 [**IR A MI PORTFOLIO**](https://martcacio.github.io/portfolio/#/)
 
-![image](https://github.com/Martcacio/Martcacio/Martcacio/fondo-dino.png)
+
+![image](https://github.com/Martcacio/Martcacio/Martcacio/blob/main/fondo-dino.png)
 
 ### Formación
 
