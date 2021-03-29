@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hola! Soy Marta 👋
 
-<!--
-**Martcacio/Martcacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Martcacio/Martcacio**
+En este GitHub encontrarás los repositorios de mis proyectos.
+Pero si quieres ir directamente a lo jugoso te recomiendo clicar en el enlace de mi portfolio directamente 👇
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
