@@ -5,10 +5,12 @@ Pero si quieres ir directamente a lo jugoso te recomiendo clicar en el enlace de
 
 [**IR A MI PORTFOLIO**](https://martcacio.github.io/portfolio/#/)
 
-
+![image](https://github.com/Martcacio/Martcacio/fondo-dino.png)
 
 ### Formación
+
 **🤖 Front-End Developer**
+
 - Frameworks de desarrollo web: Bootstrap
 - Maquetación HTML, CSS (SASS)
 - Conocimientos JavaScript
@@ -18,6 +20,6 @@ Pero si quieres ir directamente a lo jugoso te recomiendo clicar en el enlace de
 - Herramientas de desarrollo: Gulp, terminal
 
 **🦄 UX/UI Designer**
+
 - Creación desde cero de una página web o aplicación
 - Manejo de herramientas como Zeplin, InVision, Figma, Sketch...
-
